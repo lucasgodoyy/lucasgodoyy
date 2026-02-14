@@ -54,14 +54,6 @@ A multi‑tenant platform designed for store operations and product management.
 **DevOps:** GitHub Actions, CI/CD  
 **Other:** Git, REST, architectural patterns  
 
----
-
-## GitHub Overview
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasgodoyy&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgodoyy&theme=dark&hide_border=true" />
-</div>
 
 ---
 
